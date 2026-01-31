@@ -1,16 +1,17 @@
-## Hi there 👋
+AI/ML Engineer | Startup Minded
+Building scalable AI solutions from prototype to production.
 
-<!--
-**adiwalunj/adiwalunj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
 
-Here are some ideas to get you started:
+AI/ML: Deep Learning, NLP, Computer Vision (optional)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Engineering: Python, Data Pipelines, Model Deployment
+
+Tools: Streamlit, FastAPI, PyTorch/TensorFlow
+
+Focus
+Fast iteration, clean architecture, and delivering ML that works in the real world.
+
+Open to
+Early-stage startups and moonshot projects.
+

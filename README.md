@@ -27,3 +27,7 @@ Fast iteration, clean architecture, and delivering ML that works in the real wor
 
 ![HTML](https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-111111?style=flat&logo=css3)
+
+
+Works-->
+Open source contributer at the official NASA Ai/Ml AWG
